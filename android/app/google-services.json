@@ -1,0 +1,29 @@
+{ 
+  "project_info": {
+    "project_number": "351080652075",
+    "project_id": "expiry-and-inventory-mngmnt",
+    "storage_bucket": "expiry-and-inventory-mngmnt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351080652075:android:dee18d3243e80361a1f96e",
+        "android_client_info": {
+          "package_name": "com.example.expiry_and_inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZmgf6y90mUDN9vYBz0vmIrUG7pCJ2l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
